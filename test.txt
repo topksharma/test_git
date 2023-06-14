@@ -1,6 +1,0 @@
-
-hello,
-hi,
-this is just a test file for testaing git merge.
-ja ja
-hello
