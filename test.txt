@@ -1,6 +1,5 @@
 hi,
+this is just a test file for testing git.
 this is just a test file for testing git merge.
 hello
 again
-
-i m merge_test
