@@ -1,7 +1,8 @@
 hi,
-this is just a test file for testing git.
 this is just a test file for testing git merge.
 hello
 again
 let's do it again in merge_test
 i m merge_test
+
+this is for diff
