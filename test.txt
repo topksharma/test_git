@@ -9,3 +9,5 @@ this is for diff
 
 changes for test_all repo
 changes for bwsub
+sub-b3
+     c1
