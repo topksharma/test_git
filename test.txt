@@ -10,4 +10,6 @@ this is for diff
 changes for test_all repo
 changes for bwsub
 sub-b3
-     c1
+    c1
+sub-b4
+    c1
